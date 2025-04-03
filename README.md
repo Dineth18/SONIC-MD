@@ -38,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/XdTechPro/SONIC-MD/fork"><img title="JAWAD-MD" src="https://img.shields.io/badge/FORK-SONIC MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/XdTechPro/SONIC-MD/fork"><img title="SONIC-MD" src="https://img.shields.io/badge/FORK-SONIC MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
@@ -100,7 +100,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 🏆 Credits & Contributors
 > SONIC-MD Owner 
 - [JawadTechX](https://github.com/XdTechPro)
-- Creater and Owner Of JAWAD-MD
+- Creater and Owner Of CYBER X THENULA
 > SONIC-MD Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
 - For helping in bot plugin files.
